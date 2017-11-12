@@ -1,0 +1,2 @@
+DEBUG 2017-04-04 15:44:57 --> INSTANCE_11572 --> Yumpu Class initialised
+DEBUG 2017-04-04 15:44:57 --> INSTANCE_11572 --> Yumpu Class destroyed
